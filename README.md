@@ -18,3 +18,6 @@ informaçoes. Este foi criado no unity pois é uma ferramenta de criaçao de jog
 mais facil a comparaçao dos dados.
 
 O setup necessario é um computador que suporte o unity para que consiga correr o programa
+
+O programa é composto por varias partes sendo elas o Main menu que prmite sair, mudar as opçoes ou começar o test depois é o formulario que pede o id e o numero de repetiçoes para depois ser redirecionado para o teste. 
+
