@@ -1,6 +1,6 @@
 # Lane-Change-Test
 É uma versao do lane change test feito em Unity que permite uma melhor portabilidade e facilidade de configurar permitindo ter algumas configuraçoes caso necessario, este segue os standars propostos pelo Lane Change Test ja criado 
-Este projeto tem por base o LCT que é um teste de conduçao que serve para medir e comparar o percurso que o piloto fez e o percurso perfeito, neste o piloto tem de seguir as instroçoes dadas pelos sinais que aparecem 
+Este projeto tem por base o LCT que é um teste de conduçao que serve para medir e comparar o percurso que o piloto fez e o percurso perfeito, neste o piloto tem de seguir as instruções dadas pelos sinais que aparecem 
 em ambos os lados da estrada, este programa serviu para que nao houvesse a necessidade de fazer testes com veiculos reais assim evitando acidentes e os custos de reparaçao dos veiculos.
 
 Nos testes sao usados as teclas W,A,S e D ou cima, baixo, esquerda e direita para conduzir o veiculo e o espaço para travar e nestes, se nada for modificado antes do teste, contem 18 sianis a distancias semelhantes 
