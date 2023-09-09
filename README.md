@@ -15,15 +15,15 @@ The necessary setup requires a computer capable of running Unity.
 
 The program consists of several components, including the Main Menu, which allows exiting, adjusting options, or starting the test. Additionally, there is a form that requests an ID and the number of repetitions before redirecting to the test.
 
-teste de conduçao
+Driving thest
 ![Exemplo do teste de conduçao](https://github.com/TiagoNoite/Lane-Change-Test/blob/main/teste%20condu%C3%A7ao.png?raw=true)
 
-MAin Menu
+Main Menu
 ![Main Menu](https://github.com/TiagoNoite/Lane-Change-Test/blob/main/main%20menu.png?raw=true)
 
-Formulario para o teste
+Form 
 ![Formulario](https://github.com/TiagoNoite/Lane-Change-Test/blob/main/Form%20menu.png?raw=true)
 
 
-Video explicativo do LCT criado
+LCT explanatory video
 [![LCT video](https://github.com/TiagoNoite/Lane-Change-Test/blob/main/Form%20menu.png?raw=true)](https://youtu.be/mqZ4YszFulQ)
