@@ -32,4 +32,4 @@ Formulario para o teste
 
 
 Video explicativo do LCT criado
-[![LCT video](https://youtu.be/mqZ4YszFulQ)](https://youtu.be/mqZ4YszFulQ)
+[![LCT video](https://github.com/TiagoNoite/Lane-Change-Test/blob/main/Form%20menu.png?raw=true)](https://youtu.be/mqZ4YszFulQ)
